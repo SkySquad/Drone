@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Gas leak detection using thermal cameras
+""" This is  an artificial intelligence model to detect gas leak detection using bayesian decision theory
 
 """
 
