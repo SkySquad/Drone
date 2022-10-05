@@ -7,13 +7,7 @@
 
   <h3 align="center">Uncontrolled Gas Leak Ignition using Drone</h3>
 
-  <p align="center">
-    <br />
-    <a href="https://github.com/SkySquad/Drone_Aramco/tree/master/Code">View Code</a>    ·
-    <a href="https://github.com/SkySquad/Drone_Aramco/tree/master/Gas%20detection">Gas detection</a>
-    ·
-    <a href="https://github.com/SkySquad/Drone_Aramco/tree/master/Invastigation">Invastigation</a>
-  </p>
+ 
 </div>
 
 
