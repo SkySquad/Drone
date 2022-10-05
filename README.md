@@ -55,18 +55,14 @@ Develop drone-based ignition system that is controlled remotely to safely and ef
 
 
 
-### Built With
+## Requirements
+To run this project the following are needed for AI . Furthermore, a Dronekit must be installed.Pymavlink to connect with Drone. For shirt detection opencv, cv2  must be installed on the system.
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
+> **Requirements list (+ all dependencies!) (python2.7):**
+> - Dronekit (https://github.com/dronekit/Dronekit-python)
+> - keras (http://www.keras.io)
+> - theano (http://deeplearning.net/software/theano/)
+> - opencv (http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -79,6 +75,12 @@ To get a local copy up and running follow these simple example steps.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Run the project
+If you have all requirements as defined above you can simple run the project by entering:
+```
+$ python drone.py
+```
+This contains the main file of the drone. Please make sure that you have an active connection to the drone via wifi.
 
 
 <!-- MVP -->
