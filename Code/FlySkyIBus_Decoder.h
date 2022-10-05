@@ -1,5 +1,5 @@
 /*
- * Simple interface to the Fly Sky IBus RC system.
+ * Simple interface to the Fly Sky RC system.
  */
 
 #include <inttypes.h>
