@@ -88,7 +88,7 @@ This contains the main file of the drone. Please make sure that you have an acti
 
 A software designed to manage the mission and save the mission details for further investigation.
 
-_For more clarification, please refer to the [SkySquad Software](https://example.com)_
+_For more clarification, please refer to the [SkySquad Software](https://github.com/SkySquad/Drone/tree/master/SkySquad%20Software)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
