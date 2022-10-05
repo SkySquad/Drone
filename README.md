@@ -73,6 +73,9 @@ To run this project the following are needed for AI . Furthermore, a Dronekit mu
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
+<a href="https://github.com/SkySquad/Drone_Aramco">
+    <img src="images/SW&HW.png" alt="Logo" width="600" height="200">
+  </a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Run the project
