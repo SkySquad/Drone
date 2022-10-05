@@ -65,7 +65,7 @@ This is an example of how you may give instructions on setting up your project l
 To get a local copy up and running follow these simple example steps.
 
 <a href="https://github.com/SkySquad/Drone_Aramco">
-    <img src="images/SH.PNG" alt="SW AND HW" width="800" height="500">
+    <img src="images/SH.PNG" alt="SW AND HW" width="600" height="400">
   </a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
