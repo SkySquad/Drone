@@ -86,9 +86,9 @@ This contains the main file of the drone. Please make sure that you have an acti
 <!-- MVP -->
 ## SkySquad Software 
 
-A software designed to manage the mission from crea the mission and save the mission details for further investigation.
+A software designed to manage the mission and save the mission details for further investigation.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more clarification, please refer to the [SkySquad Software](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
