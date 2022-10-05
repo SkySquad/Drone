@@ -94,38 +94,12 @@ _For more clarification, please refer to the [SkySquad Software](https://github.
 
 
 
-<!-- Project Highlights -->
-## Project Highlights
-
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
 
 <!-- LICENSE -->
 ## License
 
 
 This porject is sponsored by The Saudi Federation for Cybersecurity, Programming and Drones , Tuwaiq Drone Challenge
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
