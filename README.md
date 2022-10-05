@@ -21,18 +21,15 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#goal">Goal</a></li>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#requirements">Requirements </a></li>
       </ul>
     </li>
     <li>
       <a href="#hardware-and-software-used">Hardware and Software Used</a>
     </li>
-    <li><a href="#minimum-viable-product">MVP</a></li>
-    <li><a href="#project-highlights">Project Highlights</a></li>
-    <li><a href="#simulation">Simulation</a></li>
+    <li><a href="#skysquad-software">SkySquad Software </a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+
   </ol>
 </details>
 
