@@ -116,7 +116,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+this porject sponsored by The Saudi Federation for Cybersecurity, Programming and Drones , Tuwaiq Drone Challenge
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
